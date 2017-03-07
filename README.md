@@ -1,2 +1,5 @@
 # BasicBayes
-R Shiny App showing a basic prior/posterior relationship.
+
+This is code for an R Shiny app to demonstrate the relationship between a prior and posterior distribution.
+
+The app can be viewed [here](http://teaching.stat.ncsu.edu:3838/jbpost2/BasicBayes/).
