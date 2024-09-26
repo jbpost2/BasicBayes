@@ -1,0 +1,12 @@
+name: basicbayes
+title: BasicBayes
+username: jbpost2
+account: jbpost2
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 22
+bundleId: 139
+url: https://shiny.stat.ncsu.edu/jbpost2/BasicBayes/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
